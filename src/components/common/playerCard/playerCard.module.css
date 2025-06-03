@@ -1,0 +1,112 @@
+/* Player Card Styles */
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    text-align: center;
+    background-color: #fff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 100%;
+    height: 100%; /* Ensures cards fill the grid cell */
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  }
+  
+  .imageContainer {
+    position: relative;
+    width: 100%;
+    flex-shrink: 0;
+    aspect-ratio: 4/3; /* Maintains consistent container ratio */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f8f8; /* Light background for empty space */
+    overflow: hidden;
+    background-image: url('/assets/images/backgrounds/bg.jpg'); /* Add background image */
+    background-size: cover; /* Ensure the background covers the container */
+    background-position: center; /* Center the background image */
+    border-bottom: 1px solid #ccc; /* Optional: Add a border for separation */
+  }
+  
+  .image {
+    width: 80%; /* Adjust the size of the player image */
+    object-fit: contain; /* Shows full image without cropping */
+    display: block;
+    z-index: 1; /* Ensure the player image is above the background */
+  }
+  
+  .yearOverlay {
+    margin: 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #eeb115;
+    color: white;
+    padding: 0.15rem 0.7rem;
+    font-size: 0.9rem;
+    font-weight: bold;
+    border-radius: 6px;
+  }
+  
+  .details {
+    padding: 1rem;
+    flex: 1; /* Takes up remaining space */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .playerName {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+  }
+  
+  .teamName {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 1rem;
+    line-height: 1.3;
+  }
+  
+  .stats {
+    background-color: #f5f5f5;
+    padding: 0.7rem 0.5rem;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    margin-top: auto; /* Pushes stats to bottom */
+  }
+  
+  .statRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .statRow span {
+    flex: 1;                /* Each stat takes equal width */
+    text-align: center;     /* Center the text horizontally */
+  }
+  
+  .statLabel {
+    color: #333; /* Dark grey for parameter names */
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-align: left;
+  }
+  
+  .statValue {
+    color: #1884ff; /* Blue for values */
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: right;
+  }

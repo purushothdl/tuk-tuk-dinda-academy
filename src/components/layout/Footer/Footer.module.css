@@ -1,0 +1,25 @@
+/* src/components/layout/Footer/Footer.module.css */
+.footer {
+    background-color: var(--secondary-color);
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .footerLinks {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+  }
+  
+  .footerLink {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .footerLink:hover {
+    color: var(--primary-color);
+  }

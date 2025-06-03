@@ -1,0 +1,18 @@
+/* src/pages/Home/Home.module.css */
+.home {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 0 0 15px 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 0;
+}
+
+@media (max-width: 768px) {
+    .home {
+        margin: 0 0rem;
+    }
+}

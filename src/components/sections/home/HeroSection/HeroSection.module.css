@@ -1,0 +1,24 @@
+.headingSection {
+  background: linear-gradient(to bottom, #ffc107a2, white); 
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.mainHeading {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 1rem;
+}
+
+.highlight {
+  color: #ffc107; 
+}
+
+.subHeading {
+  font-size: 1.25rem;
+  color: rgb(122, 122, 122);
+  max-width: 700px;
+  margin: 0 auto;
+  font-weight: 600;
+}

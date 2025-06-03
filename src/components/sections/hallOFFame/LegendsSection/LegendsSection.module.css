@@ -1,0 +1,70 @@
+/* Grid Styles */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    padding: 0rem;
+    max-width: 1400px;
+    margin: 0 auto;
+    align-items: stretch;
+  }
+  
+
+  
+  @media (max-width: 768px) {
+    .grid {
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+      padding: 0.5rem;
+    }
+    
+    .card {
+      min-height: auto;
+    }
+    
+    .details {
+      padding: 0.8rem;
+    }
+    
+    .playerName {
+      font-size: 1.1rem;
+    }
+    
+    .teamName {
+      font-size: 0.95rem;
+    }
+    
+    .yearOverlay {
+      padding: 0.25rem 0.6rem;
+      font-size: 0.85rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .grid {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+      padding: 0.4rem;
+    }
+
+
+    .details {
+      padding: 0.8rem;
+    }
+    
+    .playerName {
+      font-size: 1.1rem;
+    }
+    
+    .teamName {
+      font-size: 0.9rem;
+    }
+    
+    .stats {
+      padding: 0.6rem 0.4rem;
+    }
+    
+    .statLabel, .statValue {
+      font-size: 0.85rem;
+    }
+  }

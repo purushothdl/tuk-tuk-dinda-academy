@@ -1,0 +1,36 @@
+{
+  "tuktuk_academy": {
+    "image": "/assets/images/logo/rule_card_tuktuk.jpg",
+    "title": "Tuk Tuk Academy Rules",
+    "subtitle": "RULES AND REGULATIONS FOR IPL 2025",
+    "rules": [
+      "Strike rate should be less than 140 in powerplay and 120 overall (minimum 6 balls faced).",
+      "Fifty off 35+ balls and century off 60+ balls will give you admission under Statpadding Quota.",
+      "If your IPL salary is 5 Cr+ and you get out below 10 runs then you will get admission under NBDC Department (Naam Bade Darshan Chote).",
+      "Playing maiden overs in powerplay should be the main focus.",
+      "Strike rate rule can be changed in future depending on the pitches and average score by teams.",
+      "Ducks and golden ducks should be the priority in order to get admission in 'Suryabhatta Department of Ducks'.",
+      "Among all the 300+ runs scorers, lowest strike rate player will get 'Academy Player of the Tournament' award.",
+      "Getting out cheaply then giving senseless excuse will make you eligible for 'Weatherman Brooky Award'.",
+      "If you are batting partner of players like Abhishek, Head, JFM, Salt, Klaasen, Dube, SKY etc, run out them for special academy bonus.",
+      "Playing three dots in a row will boost your merit points for the promotion within the academy."
+    ]
+  },
+  "dinda_academy": {
+    "image": "/assets/images/logo/rule_card_dinda.jpg",
+    "title": "Dinda Academy Rules",
+    "subtitle": "RULES AND REGULATIONS FOR IPL 2025",
+    "rules": [
+      "Economy rate rule: A bowler must have an ER > 12 (or 11 on anti-academy pitches) and bowl a minimum of 2 overs for admission.",
+      "50+ runs special entry: Conceding 50+ runs in a single spell? Congratulations, you're instantly admitted with a gold membership!",
+      "Dinda Sir Band: Fastest bowler to get smashed for 50 runs will receive the prestigious 'Dinda Sir Band' for excellence in destruction.",
+      "Weekly excellence award: Every week, the bowler with the highest ER will get the 'Best Performer Award' from Haris Rauf.",
+      "No wicket rule: Taking more than 2 wickets in a match? Sorry, you are disqualified. Real legends focus on giving runs, not taking wickets!",
+      "NBDC Department: Bowlers with an IPL salary of 5Cr+ but manage to go wicketless every match will be given a special seat in the 'Naam Bade Darshan Chhote' department.",
+      "Anti-academy conversion rule: Starc, Bumrah, Rashid & other anti-academy bowlers must prove their loyalty by conceding at least 40 runs in 3 consecutive matches to become professors.",
+      "Run fest bonus: If you help the opposition score 250+ runs by consistently missing yorkers and bowling full tosses, you will be promoted to Dean of the Academy.",
+      "Betrayal punishment: Any bowler who suddenly starts bowling well will be publicly punished by Dinda Sir himself and may face suspension from the Academy.",
+      "The Arshdeep Singh Rule: If you bowl a no-ball in the 19th or 20th over, you will be given a lifetime achievement award. No-ball + six combo gets you a VIP seat in the Academy!"
+    ]
+  }
+}
