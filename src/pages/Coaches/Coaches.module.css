@@ -1,0 +1,28 @@
+.coachesPage {
+  padding: 2rem;
+  margin: 0 auto;
+  background: linear-gradient(135deg, #f5eee4, #d9fcb8);
+  min-height: 100vh;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 0 auto;
+  margin-top: 2rem;
+  max-width: 1380px;
+  align-items: stretch;
+}
+
+@media (max-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(250px, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: minmax(200px, 1fr);
+  }
+}

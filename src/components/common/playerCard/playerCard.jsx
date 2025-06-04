@@ -9,7 +9,15 @@ const PlayerCard = ({ player, year, teamName, runs, innings, avg, sr, tukScore, 
   return (
     <div className={styles.card}>
       <div className={styles.imageContainer}>
-        <img src={getPlayerImageUrl(player)} alt={player} className={styles.image} />
+        <img 
+          src={getPlayerImageUrl(player)} 
+          alt={player} 
+          className={styles.image}
+          onError={(e) => {
+            e.target.onerror = null; 
+            e.target.src = '/assets/images/placeholders/default.png'
+          }}
+        />
         <div className={styles.yearOverlay}>{year}</div>
       </div>
       <div className={styles.details}>

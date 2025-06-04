@@ -8,7 +8,15 @@ const BetrayerCard = ({ betrayer, isBowler = false }) => {
   return (
     <div className={styles.card}>
       <div className={styles.imageContainer}>
-        <img src={getPlayerImageUrl(isBowler ? BowlerName : StrikerName)} alt={isBowler ? BowlerName : StrikerName} className={styles.image} />
+        <img 
+          src={getPlayerImageUrl(isBowler ? BowlerName : StrikerName)} 
+          alt={isBowler ? BowlerName : StrikerName} 
+          className={styles.image}
+          onError={(e) => {
+            e.target.onerror = null; 
+            e.target.src = '/assets/images/placeholders/default.png';
+          }}
+        />
         <div className={styles.teamOverlay}>vs {AgainstTeamShort}</div>
       </div>
       <div className={styles.details}>

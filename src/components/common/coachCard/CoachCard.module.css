@@ -1,0 +1,74 @@
+.card {
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.imageContainer {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4/3;
+  overflow: hidden;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.roleBadge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #eeb115;
+  color: white;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+  border-radius: 6px;
+  text-transform: uppercase;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.details {
+  padding: 1.5rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background: linear-gradient(135deg, #ffffff, #f8f8f8);
+}
+
+.name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.quote {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: #555;
+  background: #f0f0f0;
+  padding: 0.8rem;
+  border-radius: 6px;
+  border-left: 4px solid #eeb115;
+}
+
+.caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: auto;
+  font-weight: 600;
+}
