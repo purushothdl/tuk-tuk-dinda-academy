@@ -3,7 +3,7 @@ import styles from './BetrayerCard.module.css';
 import getPlayerImageUrl from '../../../utils/helpers/imageHelpers';
 
 const BetrayerCard = ({ betrayer, isBowler = false }) => {
-  const { StrikerName, BowlerName, TeamName, AgainstTeamShort, TotalRuns, Balls, StrikeRate, OversBowled, EconomyRate, Caption } = betrayer;
+  const { StrikerName, BowlerName, TeamName, AgainstTeamShort, TotalRuns, Balls, StrikeRate, InningsWickets, EconomyRate, Caption } = betrayer;
 
   return (
     <div className={styles.card}>
@@ -17,12 +17,12 @@ const BetrayerCard = ({ betrayer, isBowler = false }) => {
         <div className={styles.stats}>
           <div className={styles.statRow}>
             <span className={styles.statLabel}>Runs</span>
-            <span className={styles.statLabel}>{isBowler ? 'Overs' : 'Balls'}</span>
+            <span className={styles.statLabel}>{isBowler ? 'Wickets' : 'Balls'}</span>
             <span className={styles.statLabel}>{isBowler ? 'Economy' : 'SR'}</span>
           </div>
           <div className={styles.statRow}>
             <span className={styles.statValue}>{TotalRuns}</span>
-            <span className={styles.statValue}>{isBowler ? OversBowled : Balls}</span>
+            <span className={styles.statValue}>{isBowler ? InningsWickets : Balls}</span>
             <span className={styles.statValue}>{isBowler ? EconomyRate : StrikeRate}</span>
           </div>
         </div>
