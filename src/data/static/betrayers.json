@@ -12,7 +12,7 @@
             "Sixes": "6",
             "MatchDate": "2025-05-03",
             "Year": "2025",
-            "Caption": "Biggest betrayal ever to the academy😪!"
+            "Caption": "6 Sixes? Nah Bruh. That's too much body.. I mean boundary count😅."
         },
         {
             "StrikerName": "Marcus Stoinis",
@@ -26,7 +26,7 @@
             "Sixes": "4",
             "MatchDate": "2025-04-12",
             "Year": "2025",
-            "Caption": "Repeat Offender🤬. Stoinis is permanently banned from tuk-tuk academy😤"
+            "Caption": "Repeat Offender🤬. Stoinis is permanently banned from Tuk-Tuk academy😤"
         },
         {
             "StrikerName": "Shubham Dubey",
@@ -40,7 +40,7 @@
             "Sixes": "4",
             "MatchDate": "2025-03-23",
             "Year": "2025",
-            "Caption": "Who is this guy? Make sure he never gets admission in tuk-tuk."
+            "Caption": "Dravid Ji, one of your players is being reckless instead of choking like the others."
         },
         {
             "StrikerName": "Abdul Samad",
@@ -68,7 +68,7 @@
             "Sixes": "6",
             "MatchDate": "2025-05-19",
             "Year": "2025",
-            "Caption": "Ah, Yuvraj's disciple. But violence is prohibited in the academy."
+            "Caption": "The Tuk Tuk annual conference will decide your fate bruh."
         },
         {
             "StrikerName": "Urvil Patel",
@@ -124,7 +124,7 @@
             "Sixes": "5",
             "MatchDate": "2025-03-27",
             "Year": "2025",
-            "Caption": "5 Sixes? Nah, bruh. That's too much body.. I mean boundary count😅"
+            "Caption": "SRH is training Anti-Academy players. Unreal disrespect to our esteemed institution."
         },
         {
             "StrikerName": "Marcus Stoinis",
@@ -147,6 +147,7 @@
             "BowlerName": "Mitchell Santner",
             "TeamName": "Mumbai Indians",
             "AgainstTeamName": "Delhi Capitals",
+            "AgainstTeamShort": "DC",
             "TotalRunsConceded": "11",
             "OversBowled": "4.0",
             "EconomyRate": "2.75",
@@ -159,6 +160,7 @@
             "BowlerName": "Deepak Chahar",
             "TeamName": "Mumbai Indians",
             "AgainstTeamName": "Sunrisers Hyderabad",
+            "AgainstTeamShort": "SRH",
             "TotalRunsConceded": "12",
             "OversBowled": "4.0",
             "EconomyRate": "3.00",
@@ -171,6 +173,7 @@
             "BowlerName": "Noor Ahmad",
             "TeamName": "Chennai Super Kings",
             "AgainstTeamName": "Lucknow Super Giants",
+            "AgainstTeamShort": "LSG",
             "TotalRunsConceded": "13",
             "OversBowled": "4.0",
             "EconomyRate": "3.25",
@@ -183,6 +186,7 @@
             "BowlerName": "Sunil Narine",
             "TeamName": "Kolkata Knight Riders",
             "AgainstTeamName": "Chennai Super Kings",
+            "AgainstTeamShort": "CSK",
             "TotalRunsConceded": "13",
             "OversBowled": "4.0",
             "EconomyRate": "3.25",
@@ -195,6 +199,7 @@
             "BowlerName": "Jaydev Unadkat",
             "TeamName": "Sunrisers Hyderabad",
             "AgainstTeamName": "Delhi Capitals",
+            "AgainstTeamShort": "DC",
             "TotalRunsConceded": "13",
             "OversBowled": "4.0",
             "EconomyRate": "3.25",
@@ -207,6 +212,7 @@
             "BowlerName": "Jasprit Bumrah",
             "TeamName": "Mumbai Indians",
             "AgainstTeamName": "Rajasthan Royals",
+            "AgainstTeamShort": "RR",
             "TotalRunsConceded": "15",
             "OversBowled": "4.0",
             "EconomyRate": "3.75",
@@ -219,6 +225,7 @@
             "BowlerName": "Arshdeep Singh",
             "TeamName": "Punjab Kings",
             "AgainstTeamName": "Lucknow Super Giants",
+            "AgainstTeamShort": "LSG",
             "TotalRunsConceded": "16",
             "OversBowled": "4.0",
             "EconomyRate": "4.00",
@@ -231,6 +238,7 @@
             "BowlerName": "Harshit Rana",
             "TeamName": "Kolkata Knight Riders",
             "AgainstTeamName": "Chennai Super Kings",
+            "AgainstTeamShort": "CSK",
             "TotalRunsConceded": "16",
             "OversBowled": "4.0",
             "EconomyRate": "4.00",

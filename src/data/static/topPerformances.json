@@ -21,7 +21,7 @@
         "context_factor":1.5444444444,
         "reason":"Slow (SR 78 vs Exp 266) in 278 chase",
         "match_context":"While Chasing 278",
-        "caption":"When you’re more concerned about the environment than the run rate"
+        "caption":"Incredible resilience by this young man. The academy is so proud."
     },
     {
         "match_id":202551,
@@ -90,7 +90,7 @@
         "context_factor":1.5444444444,
         "reason":"Slow (SR 69 vs Exp 266) in 278 chase",
         "match_context":"Chasing 278 vs SRH",
-        "caption":"Unreal tuk-tuk while chasing 278"
+        "caption":"Bro's South African blood kicked in while chasing. Unreal choking."
     },
     {
         "match_id":202524,
@@ -115,29 +115,7 @@
         "match_context":"While Batting 1st",
         "caption":"Jitesh Sharma missed his 11 ball fifty by just 47 Runs😥"
     },
-    {
-        "match_id":202550,
-        "innings":2,
-        "player":"Nitish Rana",
-        "phase":"Group Stage",
-        "batting_team":"Rajasthan Royals",
-        "bowling_team":"MI",
-        "target":218,
-        "first_innings_score":217,
-        "runs_scored":9,
-        "balls_faced":11,
-        "is_out":true,
-        "actual_sr":81.8181818182,
-        "price":42000000.0,
-        "choke_score":23.0895580808,
-        "slowness_points":127.0984848485,
-        "price_factor":1.5,
-        "match_importance_factor":1.0,
-        "context_factor":1.2111111111,
-        "reason":"Slow (SR 82 vs Exp 209) in 218 chase",
-        "match_context":"Chasing 218 vs MI",
-        "caption":"MI made a mistake by taking his wicket"
-    },
+
     {
         "match_id":202520,
         "innings":2,
@@ -159,7 +137,7 @@
         "context_factor":1.2333333333,
         "reason":"Slow (SR 122 vs Exp 213) in 222 chase; High Price (Factor 2.0)",
         "match_context":"Chasing 222 vs RCB",
-        "caption":"We will get to the target, eventually..."
+        "caption":"We all know you are Rohit's secret agent. Thanks for ruining Pandya's day."
     }
 ],
   "Dinda": [
@@ -217,7 +195,7 @@
         "EconomyRate": "21.66",
         "MatchDate": "2025-05-03",
         "Year": "2025",
-        "caption": "An over without a six is an over wasted."
+        "caption": "An over without conceding a six is an over wasted."
     },
     {
         "MatchID": "1800",

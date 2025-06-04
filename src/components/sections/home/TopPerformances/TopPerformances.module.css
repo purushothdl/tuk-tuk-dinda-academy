@@ -69,7 +69,7 @@
   object-fit: contain;
   flex-shrink: 0; 
   background-color: #fff;
-  background-image: url('/assets/images/backgrounds/top_bg.jpg');
+  background-image: url('/assets/images/backgrounds/top_bg_test.jpg');
   background-size: cover;
   background-position: center;
   border-bottom: 1px solid #ccc;
@@ -156,7 +156,6 @@
 .caption {
   font-size: 1rem;
   color: #333;
-  font-style: italic;
   margin-bottom: 0;
   line-height: 1.4;
   margin-top: auto; 
