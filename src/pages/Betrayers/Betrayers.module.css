@@ -34,6 +34,38 @@
     .grid {
       grid-template-columns: 1fr;
       gap: 1rem;
-      padding: 0.8rem;
+      padding: 0.3rem;
+    }
+  }
+
+  .popupOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    overflow: hidden;
+  }
+
+  .popupContent {
+    background-color: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    max-width: 72%;
+    max-height: 90%;
+    overflow-y: auto;
+    position: relative;
+    width: 100%;
+  }
+
+  @media (max-width: 768px) {
+    .popupContent {
+      max-height: 60%;
+      padding: 0.5rem;
     }
   }
