@@ -7,7 +7,7 @@ const CoachCard = ({ coach }) => {
   return (
     <div className={styles.card}>
       <div className={styles.imageContainer}>
-        <img src={image_path} alt={name} className={styles.image} />
+        <img src={image_path} alt={name} className={styles.image} loading="eager" />
         <div className={styles.roleBadge}>{role}</div>
       </div>
       <div className={styles.details}>
