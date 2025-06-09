@@ -1,42 +1,42 @@
 [
     {
       "name": "Professor Blockwell",
-      "image_path": "/assets/images/coaches/blockwell.png",
+      "image_path": "/assets/images/coaches/blockwell.jpeg",
       "role": "Batting",
       "quote": "Remember, the best way to score runs is to not lose your wicket... ever!",
       "caption": "Former ODI “batsman” with a strike rate of 37.8 (rounded up at his request). Once batted an entire day for 42 not out. Has never hit a six — on purpose. Currently runs a masterclass titled *The Power of Letting the Bowler Win Emotionally*."
     },
     {
       "name": "Sir Defend-A-Lot",
-      "image_path": "/assets/images/coaches/defend_a_lot.png",
+      "image_path": "/assets/images/coaches/defend_a_lot.jpeg",
       "role": "Batting",
       "quote": "Why rush? The scoreboard can wait. Your survival is paramount.",
       "caption": "Turns wides and free hits into dot balls, convinced they’re psychological bait. Known for batting 10 overs without scoring, yet claiming “he set the platform.” His favorite shot? The leave."
     },
     {
       "name": "Runn Leaker",
-      "image_path": "/assets/images/coaches/runn_leaker.png",
+      "image_path": "/assets/images/coaches/runn_leaker.jpeg",
       "role": "Bowling",
       "quote": "Line and length is overrated. It’s time for vibes and chaos.",
       "caption": "Inventor of vibe bowling™, where the arm moves but the brain clocks out. Once went for 64 in 3 overs and called it 'a tactical destabilization.' Has never followed a field setting in his life."
     },
     {
       "name": "Sir Wild Armstrong",
-      "image_path": "/assets/images/coaches/wild_armstrong.png",
+      "image_path": "/assets/images/coaches/wild_armstrong.jpeg",
       "role": "Bowling",
       "quote": "If they can’t hit it, they can’t score any runs!(bowls a wide)",
       "caption": "A renegade fast bowler-turned-coach who once got banned for bowling bouncers in a charity match. Now spends his time preaching the gospel of 'maximum aggression.' Most comfortable when the umpire’s arms are up for wide signals."
     },
     {
       "name": "Vince Thompson",
-      "image_path": "/assets/images/coaches/vince_thompson.png",
+      "image_path": "/assets/images/coaches/vince_thompson.jpeg",
       "role": "Fielding",
       "quote": "You can get hurt if balls meet balls. But make sure your drip is fire.",
       "caption": "Thompson pioneered The Tactical Collapse™ — Has a 100% drop rate, but 0% blame — thanks to his elite collapsing technique and ability to instantly grab his hamstring after each fumble."
     },
     {
       "name": "Coach Gary Barlow",
-      "image_path": "/assets/images/coaches/gary_barlow.png",
+      "image_path": "/assets/images/coaches/gary_barlow.jpeg",
       "role": "Wicket Keeping",
       "quote": "Stumping is optional. Wasting the team’s reviews is not.",
       "caption": "A master of appealing for LBWs on balls pitched outside leg and still climbing, Barlow once burned all 3 reviews within 5 overs — and called it 'psychological warfare.' Teaches keepers to appeal first, check later, and never admit you didn’t hear a nick."

@@ -1,49 +1,49 @@
 [
     {
       "name": "Match Winning Diary",
-      "image_path": "./assets/images/merch/diary.png",
+      "image_path": "./assets/images/merch/diary.jpeg",
       "caption": "Every run took forever, but hey—who’s counting when you’ve got style? This diary holds all my “slow and steady” victories.",
       "price": "₹499"
     },
     {
       "name": "Appeal First Bag",
-      "image_path": "./assets/images/merch/bag.png",
+      "image_path": "./assets/images/merch/bag.jpeg",
       "caption": "When in doubt, shout first and ask questions later—reviews are for the brave. Carry your misplaced confidence wherever you go.",
       "price": "₹1299"
     },
     {
       "name": "Don't Really See Cap",
-      "image_path": "./assets/images/merch/drs_cap.png",
+      "image_path": "./assets/images/merch/drs_cap.jpeg",
       "caption": "Why watch replays when you can just guess and hope for the best? This cap is for the bold, not the accurate.",
       "price": "₹799"
     },
     {
       "name": "Golden Duck Trophy",
-      "image_path": "./assets/images/merch/gold_duck.png",
+      "image_path": "./assets/images/merch/gold_duck.jpeg",
       "caption": "Here’s to the quickest way to break hearts and expectations alike. Celebrate your flawless failure with pride.",
       "price": "₹1999"
     },
     {
       "name": "Participation Medal",
-      "image_path": "./assets/images/merch/medal.png",
+      "image_path": "./assets/images/merch/medal.jpeg",
       "caption": "You showed up, survived the carnage, and that’s worth a medal. Because sometimes just being there counts as winning.",
       "price": "₹299"
     },
     {
       "name": "Stat Padding Certificate",
-      "image_path": "./assets/images/merch/statpad.png",
+      "image_path": "./assets/images/merch/statpad.jpeg",
       "caption": "Congrats on stopping the team from crossing 200 runs—true stat-padding mastery. Proof that sometimes holding back is an art.",
       "price": "₹199"
     },
     {
       "name": "Did I Cook Tee",
-      "image_path": "./assets/images/merch/slow_hoodie.png",
+      "image_path": "./assets/images/merch/slow_hoodie.jpeg",
       "caption": "Spent more time than runs on the scoreboard, but confidence was at an all-time high. Turns out, cooking takes patience—and lots of waiting.",
       "price": "₹999"
     },
     {
       "name": "Strike Rate Tee",
-      "image_path": "./assets/images/merch/sr_hoodie.png",
+      "image_path": "./assets/images/merch/sr_hoodie.jpeg",
       "caption": "Why rush when you can stroll and still call it innings? Patience is just slow aggression with better PR.",
       "price": "₹999"
     }
