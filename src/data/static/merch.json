@@ -36,15 +36,15 @@
       "price": "₹199"
     },
     {
-      "name": "Did I Cook Tee",
-      "image_path": "./assets/images/merch/slow_hoodie.jpeg",
-      "caption": "Spent more time than runs on the scoreboard, but confidence was at an all-time high. Turns out, cooking takes patience—and lots of waiting.",
-      "price": "₹999"
-    },
-    {
       "name": "Strike Rate Tee",
       "image_path": "./assets/images/merch/sr_hoodie.jpeg",
       "caption": "Why rush when you can stroll and still call it innings? Patience is just slow aggression with better PR.",
+      "price": "₹999"
+    },
+    {
+      "name": "Average Player Jersey",
+      "image_path": "./assets/images/merch/average.jpeg",
+      "caption": "If you look at the average, then you are an average player. Wear this jersey to remind everyone that mediocrity is an art form.",
       "price": "₹999"
     }
   ]
