@@ -14,18 +14,18 @@
       "caption": "Turns wides and free hits into dot balls, convinced they’re psychological bait. Known for batting 10 overs without scoring, yet claiming “he set the platform.” His favorite shot? The leave."
     },
     {
-      "name": "Runn Leaker",
-      "image_path": "/assets/images/coaches/runn_leaker.jpeg",
-      "role": "Bowling",
-      "quote": "Line and length is overrated. It’s time for vibes and chaos.",
-      "caption": "Inventor of vibe bowling™, where the arm moves but the brain clocks out. Once went for 64 in 3 overs and called it 'a tactical destabilization.' Has never followed a field setting in his life."
-    },
-    {
       "name": "Sir Wild Armstrong",
       "image_path": "/assets/images/coaches/wild_armstrong.jpeg",
       "role": "Bowling",
       "quote": "If they can’t hit it, they can’t score any runs!(bowls a wide)",
       "caption": "A renegade fast bowler-turned-coach who once got banned for bowling bouncers in a charity match. Now spends his time preaching the gospel of 'maximum aggression.' Most comfortable when the umpire’s arms are up for wide signals."
+    },
+    {
+      "name": "Runn Leaker",
+      "image_path": "/assets/images/coaches/runn_leaker.jpeg",
+      "role": "Bowling",
+      "quote": "Line and length is overrated. It’s time for vibes and chaos.",
+      "caption": "Inventor of vibe bowling™, where the arm moves but the brain clocks out. Once went for 64 in 3 overs and called it 'a tactical destabilization.' Has never followed a field setting in his life."
     },
     {
       "name": "Vince Thompson",

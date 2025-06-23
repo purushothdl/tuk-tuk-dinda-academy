@@ -6,6 +6,19 @@ This is a React application built with Vite, designed to showcase cricket player
 
 **This app is entirely satirical and intended for humor. It is not meant to be taken seriously or to degrade any player. The content is purely fictional and created for entertainment purposes. Please enjoy it in the spirit of fun and lightheartedness.**
 
+## Demo Images
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="demo/images/td_1.png" alt="Demo Image 1" style="width:100%;">
+  <img src="demo/images/td_2.png" alt="Demo Image 2" style="width:100%;">
+  <img src="demo/images/td_3.png" alt="Demo Image 3" style="width:100%;">
+  <img src="demo/images/td_4.png" alt="Demo Image 4" style="width:100%;">
+  <img src="demo/images/td_5.png" alt="Demo Image 5" style="width:100%;">
+  <img src="demo/images/td_6.png" alt="Demo Image 6" style="width:100%;">
+  <img src="demo/images/td_7.png" alt="Demo Image 7" style="width:100%;">
+  <img src="demo/images/td_8.png" alt="Demo Image 8" style="width:100%;">
+</div>
+
 ## Features
 
 - **Player Statistics**: View detailed statistics for cricket players, including runs, strike rates, and more.
